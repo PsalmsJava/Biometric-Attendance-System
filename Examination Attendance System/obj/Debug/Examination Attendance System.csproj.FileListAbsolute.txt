@@ -1,0 +1,35 @@
+c:\users\senior dev psalms\documents\visual studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Examination Attendance System.exe
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\dpfpshrnet.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Attendance Database.accdb
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Examination Attendance System.exe.config
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\dpfpctlxwrappernet.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\dpfpengnet.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\dpfpguinet.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\dpfpvernet.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\MySql.Data.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\System.Data.Common.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Google.Protobuf.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Zstandard.Net.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\System.Buffers.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\MySql.Data.xml
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination Attendance System.csproj.Examination Attendance System.exe.config
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.AdminPortal.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.AttendanceReport.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.ClockInStudents.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.ClockOutStudents.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.Home.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.LecturerMenu.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.LecturerPortal.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination_Attendance_System.Properties.Resources.resources
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination Attendance System.csproj.GenerateResource.Cache
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination Attendance System.exe
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination Attendance System.pdb
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\obj\Debug\Examination Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\Senior Dev Psalms\Documents\Visual Studio 2017\Projects\Examination Attendance System\Examination Attendance System\bin\Debug\Examination Attendance System.pdb
